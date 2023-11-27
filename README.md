@@ -26,7 +26,7 @@ If you have any questions, please feel free to contact me at my GitHub: github.c
 
 ## Walkthrough Video
 
-https://
+[https://](https://youtu.be/k-HRFDEJaQ0)https://youtu.be/k-HRFDEJaQ0
 
 ## License
 
